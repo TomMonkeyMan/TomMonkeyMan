@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomMonkeyMan
 - 👀 I’m interested in ... fun things&freedom
-- 🌱 I’m currently learning ... data platfrom/linux kernel/writing good code
+- 🌱 I’m currently learning ... rust/golang/scala
 - 💞️ I’m looking to collaborate on ... anything interesting
 - 📫 How to reach me ... shitianyurdfz@hotmail.com
 
